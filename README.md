@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Magalhães</h1>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate developer from Brazil striving to become a better person.</h3>
 
 - 🌱 I’m currently learning **Software Architecture and Design**
