@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate developer from Brazil striving to become a better person.</h3>
+<h3 align="center">Just a guy from Brazil striving to become a better software engineer.</h3>
 
 - 🌱 I’m currently learning **Software Architecture and Design**
-
-- 💬 Ask me about **React, Node and Spring and I'll answer... probably**
 
 - 📫 How to reach me **lm031719@gmail.com**
 
